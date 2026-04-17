@@ -47,5 +47,4 @@ const Ryoma = {
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ryoma&color=9b59b6&style=flat-square" alt="visitors" />
 </p>
