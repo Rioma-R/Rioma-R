@@ -24,7 +24,7 @@ const Ryoma = {
 ## 🛠️ Stack & Outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
 </p>
 
 ---
