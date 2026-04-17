@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <h1 align="center">やあ、俺はRyoma 👾</h1>
-<h3 align="center">✦ Étudiant en développement web ✦ Futur full-stack ✦</h3>
+<h3 align="center">✦ En formation Tech. Info. ✦ Futur full-stack ✦</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Learning+to+code+every+day...;Web+Dev+%7C+Front+%26+Back;Anime+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
